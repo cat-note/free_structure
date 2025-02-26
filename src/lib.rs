@@ -1,3 +1,3 @@
-mod hashmap;
+mod hashmap_unsafe;
 
-pub use hashmap::HashMap;
+pub use hashmap_unsafe::HashMap;
